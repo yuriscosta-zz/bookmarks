@@ -8,6 +8,8 @@ autopep8 = "*"
 
 [packages]
 django = "==2.0.5"
+ipython = "*"
+pillow = "==5.1.0"
 
 [requires]
 python_version = "3.6"
